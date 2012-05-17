@@ -1,7 +1,7 @@
 PHP-5.4  - Built in webserver
 =======
 
-Take a look at a lot of PHP 5.4 examples.
+Take a look at PHP 5.4 Built in WebServer example.
 
 to run this example, type: 
   
