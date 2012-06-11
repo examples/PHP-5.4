@@ -1,4 +1,6 @@
 PHP-5.4  - Built in webserver
+
+[Kinn Coelho Julião](http://www.kinncj.com.br) [Github](http://kinncj.github.com)
 =======
 
 Take a look at PHP 5.4 Built in WebServer example.
@@ -9,4 +11,4 @@ to run this example, type:
 
 Take a look at router.php, it can define some ENV var... it have a "rewrite rule" too.
 
-In this example, I'm using the [SlimPaces Framework](http://github.com/kinncj/Slim) to test the router.php
+In this example, I'm using the [SlimPaces Framework](http://github.com/kinncj/SlimPaces) to test the router.php
